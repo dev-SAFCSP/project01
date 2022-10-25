@@ -1,6 +1,13 @@
+body{
+    background-color: beige;
+}
 #form{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+input{
+    border-radius: 3px;
+    margin-top: 5px;
 }
